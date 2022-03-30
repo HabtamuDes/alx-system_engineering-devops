@@ -1,5 +1,4 @@
- #!/bin/bash
-echo "current directory using pwd command"
+^#!/bin/bash
 echo $(pwd)
 
 
